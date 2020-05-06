@@ -1,5 +1,6 @@
 # Rontes-JoseAReina
 Trabajo Entornos
+<<<<<<< HEAD
 Nombre Aplicación: Rontes 
 Nombre: José Antonio Reina Montes 
 Fecha Sprint: 22/04/2020 
@@ -7,6 +8,16 @@ Tareas: Creación de carpetas y configuración del entorno de git tanto como col
 además de diseño del sprint. 
 Tiempo Empleado: 2,30h 
 Herramientas: Pidoco y Gimp 
+=======
+Nombre Aplicación: Rontes
+Nombre: José Antonio Reina Montes
+Fecha Sprint: 22/04/2020
+Tareas: 
+Creación de carpetas y configuración del entorno de git tanto como colectivo como individual
+además de diseño del sprint.
+Tiempo Empleado: 2,30h
+Herramientas: Pidoco y Gimp
+>>>>>>> sprint1
 Bibliografía: 
 https://pidoco.com/en 
 http://www.gimp.org.es/ 
