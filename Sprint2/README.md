@@ -1,24 +1,13 @@
 # Rontes-JoseAReina
-Trabajo Entornos
-<<<<<<< HEAD
-Nombre Aplicación: Rontes 
-Nombre: José Antonio Reina Montes 
-Fecha Sprint: 22/04/2020 
-Tareas: Creación de carpetas y configuración del entorno de git tanto como colectivo como individual
-además de diseño del sprint. 
-Tiempo Empleado: 2,30h 
-Herramientas: Pidoco y Gimp 
-=======
 Nombre Aplicación: Rontes
 Nombre: José Antonio Reina Montes
-Fecha Sprint: 22/04/2020
-Tareas: 
-Creación de carpetas y configuración del entorno de git tanto como colectivo como individual
-además de diseño del sprint.
-Tiempo Empleado: 2,30h
-Herramientas: Pidoco y Gimp
->>>>>>> sprint1
-Bibliografía: 
-https://pidoco.com/en 
-http://www.gimp.org.es/ 
-https://www.creativosonline.org/blog/10-herramientas-imprescindibles-para-crear-mockups.html
+Fecha del Sprint: 06/05/2020
+Tareas realizadas: Crear diagrams, mockups y marckdown
+Tiempo empleado: 3h y 30 min
+Herramientas usadas: Lucidchart, StackEdit, Imgur y Pidoco
+Bibliografía:
+https://www.lucidchart.com/
+https://stackedit.io/
+https://pidoco.com/
+https://imgur.com/
+https://markdown.es/sintaxis-markdown/
